@@ -10,9 +10,9 @@ O objetivo é aprender e aplicar conceitos de testes end-to-end (E2E) para valid
 
 ## Tecnologias e Ferramentas
 
-- [Cypress](https://www.cypress.io/) (versão XX)  
+- [Cypress](https://www.cypress.io/) (versão 14.5.2)  
 - JavaScript (ES6+)  
-- Node.js (versão XX)  
+- Node.js (versão 22.15.0)  
 - Git para versionamento  
 
 ---
@@ -31,7 +31,7 @@ Neste projeto, desenvolvi testes automatizados para simular o fluxo de usuários
 
 ### Pré-requisitos
 
-- Node.js instalado (versão XX ou superior)  
+- Node.js instalado (versão 22.15.0 ou superior)  
 - npm (Node Package Manager)
 
 ### Passos
