@@ -1,7 +1,6 @@
 # My Cypress Automation
 
-# P
-rimeiros Testes com Cypress
+# Primeiros Testes com Cypress
 
 Este repositório contém meus primeiros projetos práticos de automação de testes utilizando o framework **Cypress**. 
 
